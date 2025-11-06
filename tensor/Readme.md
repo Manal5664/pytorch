@@ -29,14 +29,14 @@ The notebook covers:
 
 - **Platform:** Google Colab  
 - **Language:** Python  
-- **Library:** PyTorch (`torch`, `torchvision`, `numpy`)  
+- **Library:** PyTorch (`torch`, `time`, `numpy`)  
 
 ---
 
 ## 🚀 **Highlights**
 
 - Compared tensor operations on CPU and GPU to observe **speed differences**  
-- Demonstrated **in-place vs out-of-place operations**  
+- Demonstrated **inPlace operations**  
 - Showed how to **convert NumPy arrays into PyTorch tensors** and back  
 - Visualized tensor properties like shape, size, and device type  
 
